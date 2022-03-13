@@ -4,7 +4,7 @@
         "en":[
           {
             "statistiques": "The statistics of the map:",
-            "nombre-meteorite": "We found:",
+            "nombre_meteorite": "We found:",
             "meteorite": "meteorites",
             "masse": "The total mass of all the meteorites fallen on earth is:",
             "soit": "or:",
@@ -14,7 +14,7 @@
         "fr":[
           {
             "statistiques": "Les statistiques de la carte:",
-            "nombre-meteorite": "Nous avons trouvés:",
+            "nombre_meteorite": "Nous avons trouvés:",
             "meteorite": "météorites",
             "masse": "La masse totale de toutes les météorites tombées sur terre est de:",
             "soit": "soit:",
