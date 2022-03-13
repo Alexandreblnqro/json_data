@@ -1,0 +1,26 @@
+{
+    "lang":[
+      {
+        "en":[
+          {
+            "statistiques": "The statistics of the map:",
+            "nombre-meteorite": "We found:",
+            "meteorite": "meteorites",
+            "masse": "The total mass of all the meteorites fallen on earth is:",
+            "soit": "or:",
+            "ou": "or:"
+          }
+        ],
+        "fr":[
+          {
+            "statistiques": "Les statistiques de la carte:",
+            "nombre-meteorite": "Nous avons trouvés:",
+            "meteorite": "météorites",
+            "masse": "La masse totale de toutes les météorites tombées sur terre est de:",
+            "soit": "soit:",
+            "ou": "ou:"
+          }
+        ]
+      }
+    ]
+  }
