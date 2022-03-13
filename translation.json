@@ -7,7 +7,8 @@
             "nombre_meteorite": "We found:",
             "meteorite": "meteorites",
             "masse": "The total mass of all the meteorites fallen on earth is:",
-            "ou": "or:"
+            "ou": "or:",
+            "boutton": "Translate the site into English"
           }
         ],
         "fr":[
@@ -16,7 +17,8 @@
             "nombre_meteorite": "Nous avons trouvés:",
             "meteorite": "météorites",
             "masse": "La masse totale de toutes les météorites tombées sur terre est de:",
-            "ou": "ou:"
+            "ou": "ou:",
+            "boutton": "Traduire le site en anglais"
           }
         ]
       }
