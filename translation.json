@@ -7,7 +7,6 @@
             "nombre_meteorite": "We found:",
             "meteorite": "meteorites",
             "masse": "The total mass of all the meteorites fallen on earth is:",
-            "soit": "or:",
             "ou": "or:"
           }
         ],
@@ -17,7 +16,6 @@
             "nombre_meteorite": "Nous avons trouvés:",
             "meteorite": "météorites",
             "masse": "La masse totale de toutes les météorites tombées sur terre est de:",
-            "soit": "soit:",
             "ou": "ou:"
           }
         ]
